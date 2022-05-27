@@ -1,0 +1,19 @@
+{
+  "entrance_title": "Погода В Мире Сегодня",
+  "entrance_description": "Последние новости и события о погоде в Беларуси и мире.",
+
+  "search_hint": "Поиск по городу",
+
+  "menu_fav": "Избранное",
+  "menu_home": "Главная",
+  "menu_map": "Карта",
+  "menu_settings": "Настройки",
+
+  "settings_section1": "Общее",
+  "language": "Язык",
+  "locale_lang": "Русский",
+  "zoom": "Увеличение",
+  "settings_section2": "Приложение",
+  "theme_light": "Светлая тема",
+  "theme_dark": "Темная тема"
+}
